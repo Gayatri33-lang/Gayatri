@@ -12,7 +12,8 @@ public class Annagram1 {
 		System.out.println(b1);
 		
 
-	}
+	} 
+// toughest java program
    // s1 = abc , s2=def
 	public boolean Annagram (String s1, String s2){
 		if (s1.length()==s2.length()) {

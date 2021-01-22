@@ -11,6 +11,9 @@ public class Annagram {
 
 	}
 
+	/**
+	*	This method check if given two string are anagrams
+	*/
 	public boolean annagram(String s1, String s2) {
 		if (s1.length() == s2.length()) {
 			Annagram am = new Annagram();

@@ -5,8 +5,8 @@ package com.test;
 public class Annagram {
 
 	public static void main(String[] args) {
-		Annagram am = new Annagram();
-		boolean b1 =am.annagram("abc", "bcab");
+		Annagram am2 = new Annagram();
+		boolean b1 =am2.annagram("abc", "bcab");
 				System.out.println(b1);
 
 	}
